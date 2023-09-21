@@ -1,0 +1,17 @@
+.main{
+    background-color: rgb(184, 224, 240);
+    height: 200px;
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    border-bottom: 14px solid gray;
+}
+ .img{
+    padding-left: 40px;
+    padding-top: 15px;
+ }
+ .data{
+    padding-left: 60px;
+    text-align: center;
+
+ }
